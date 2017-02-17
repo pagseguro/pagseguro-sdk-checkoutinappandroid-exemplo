@@ -37,6 +37,19 @@ Antes de fazer uso da biblioteca é importante que o desenvolvedor realize algun
 
 * **
 
+**Para utilizar o Checkout Transparente**
+
+O Checkout Transparente está operando em fase de piloto. Para fazer parte deste piloto você precisa seguir alguns passos:
+
+- Enviar um e-mail para checkoutinapp@pagseguro.com.br informando um telefone de contato e o e-mail da sua conta PagSeguro.  
+Se você for selecionado para o piloto, nossa equipe entrará em contato com você para obter mais informações e liberar a funcionalidade para a sua conta;
+- Implementar o Checkout Transparente em sua aplicação;
+- Encaminhar os feedbacks para a nossa equipe. Nesta fase do projeto a sua opinião será extremamente importante.
+
+A equipe do PagSeguro dará todo o suporte para sua integração do Checkout in App com a sua aplicação.
+
+* **
+
 **Obtendo Token da conta PagSeguro**
 
 Para realizar transações utilizando a biblioteca é necessária uma conta PagSeguro. Caso não tenha uma Acesse: www.pagseguro.com.br.
