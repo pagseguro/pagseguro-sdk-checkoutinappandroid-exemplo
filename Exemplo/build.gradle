@@ -16,7 +16,7 @@ allprojects {
         }
 
         maven {
-            url "https://github.com/alexmmota/checkout-transparent/raw/master/repositorio"
+            url "https://github.com/pagseguro/android-checkout-transparent-in-app/raw/master/repositorio"
         }
 
         jcenter()
