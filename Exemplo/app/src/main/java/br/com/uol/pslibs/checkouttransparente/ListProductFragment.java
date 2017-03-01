@@ -43,29 +43,29 @@ public class ListProductFragment extends Fragment {
         Product p1 = new Product();
         p1.setName("Notebook Prata");
         p1.setDescription("Intel® Core™ i7 Quad Core 14.0\" FullHD+ 16:9 Ratio 2.2GHZ - 8GB - 128GB SATA III SSD");
-        p1.setPrice(1.00);
-        p1.setPriceString("R$1,00");
+        p1.setPrice(3100.00);
+        p1.setPriceString("R$3.100,00");
         p1.setImage(R.drawable.product1);
 
         Product p2 = new Product();
         p2.setName("Notebook Rosa");
         p2.setDescription("Intel® Core™ i7 Quad Core 14.0\" FullHD+ 16:9 Ratio 2.2GHZ - 16GB - 256GB SATA III SSD");
-        p2.setPrice(3.20);
-        p2.setPriceString("R$3,20");
+        p2.setPrice(3200.00);
+        p2.setPriceString("R$3.200,00");
         p2.setImage(R.drawable.product2);
 
         Product p3 = new Product();
         p3.setName("Notebook Preto");
         p3.setDescription("Intel® Core™ i7 Quad Core 14.0\" FullHD+ 16:9 Ratio 2.2GHZ - 32GB - 512GB SATA III SSD");
-        p3.setPrice(4.10);
-        p3.setPriceString("R$4,10");
+        p3.setPrice(4100.00);
+        p3.setPriceString("R$4.100,00");
         p3.setImage(R.drawable.product3);
 
         Product p4 = new Product();
         p4.setName("Notebook Prata");
         p4.setDescription("Intel® Core™ i7 Quad Core 14.0\" FullHD+ 16:9 Ratio 2.2GHZ - 32GB - 512GB SATA III SSD");
-        p4.setPrice(5.80);
-        p4.setPriceString("R$5,80");
+        p4.setPrice(5800.00);
+        p4.setPriceString("R$5.800,00");
         p4.setImage(R.drawable.product1);
 
         products.add(p1);
