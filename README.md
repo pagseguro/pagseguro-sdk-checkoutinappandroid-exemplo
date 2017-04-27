@@ -105,7 +105,7 @@ repositories {
         }
 
         maven {
-            url "https://github.com/pagseguro/android-checkout-transparente-in-app/raw/master/repositorio"
+            url "https://github.com/pagseguro/android-checkout-transparent-in-app/raw/master/repositorio"
         }
 
         jcenter()
